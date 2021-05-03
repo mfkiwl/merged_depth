@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+pretrained
+.DS_Store
+.vscode
 
 # C extensions
 *.so
